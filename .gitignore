@@ -1,0 +1,7 @@
+# Rust build
+/target/
+
+Cargo.lock
+
+# VS Code Workspace file
+*.code-workspace
