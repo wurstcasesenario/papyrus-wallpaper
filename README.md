@@ -30,6 +30,7 @@ To install Rust (if you haven't already), run this command in PowerShell or your
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
+
 Then run the following commands to clone and build the project:
 
 ```bash
@@ -37,4 +38,9 @@ git clone https://github.com/wurstcasesenario/papyrus-wallpaper.git
 cd papyrus-wallpaper
 cargo build --release
 ```
+
 You can now find the executable in the target/release folder.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
